@@ -6,7 +6,7 @@
 # others are feature of the data , point to be noted is that all values should we of "int" type only .
 # I have tested this program on pixel based feature extraction with different dataset , its working fine .
 # -------------------------------------------------------------------------------
-# KINDLY REPORT FOR ANY ERRORS AND BUGS.          ---THANK YOU
+# KINDLY REPORT FOR ANY ERRORS AND BUGS.          ---THANK YOU😊
 # ------------------------------------------------------------------------------
 
 import numpy as np
